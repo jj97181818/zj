@@ -1,0 +1,6 @@
+int( s.at(i) )  算出第i個位置s字串的ASCII 
+char( s.at(i) ) 輸出第i個位置s字串的的字元 
+
+
+strlen(a.c_str());  //要#include <cstring>
+a.length();
